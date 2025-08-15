@@ -1,5 +1,4 @@
 # Shopping Cart System
-# Author: Edmund Gah
 # Date: August 14, 2025
 # Description: Colorful, category-based, user-friendly Ghana Cedis shopping cart system with discounts and invoice generation.
 
@@ -234,3 +233,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
