@@ -1,5 +1,4 @@
 # Shopping Cart System
-# Author: Edmund Gah
 # Date: August 14, 2025
 # Description: A command-line shopping cart application in Ghana Cedis with discounts and invoice generation.
 
@@ -190,3 +189,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
